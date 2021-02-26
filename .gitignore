@@ -1,0 +1,12 @@
+*~
+\#*
+.\#*
+*.bak
+.DS_Store
+compiled/
+/doc/
+/out/
+/lib/
+*.exe
+*.zip
+/ArenaWorld*
